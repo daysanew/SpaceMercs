@@ -1,0 +1,13 @@
+C:\CodeProjects\SpaceMercs\bin\Debug\netcoreapp3.1\SpaceMercs.exe
+C:\CodeProjects\SpaceMercs\bin\Debug\netcoreapp3.1\SpaceMercs.deps.json
+C:\CodeProjects\SpaceMercs\bin\Debug\netcoreapp3.1\SpaceMercs.runtimeconfig.json
+C:\CodeProjects\SpaceMercs\bin\Debug\netcoreapp3.1\SpaceMercs.runtimeconfig.dev.json
+C:\CodeProjects\SpaceMercs\bin\Debug\netcoreapp3.1\SpaceMercs.dll
+C:\CodeProjects\SpaceMercs\bin\Debug\netcoreapp3.1\SpaceMercs.pdb
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.csprojAssemblyReference.cache
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.csproj.CoreCompileInputs.cache
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.AssemblyInfoInputs.cache
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.AssemblyInfo.cs
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.dll
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.pdb
+C:\CodeProjects\SpaceMercs\obj\Debug\netcoreapp3.1\SpaceMercs.genruntimeconfig.cache
